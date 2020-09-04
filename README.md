@@ -1,3 +1,3 @@
-Web-Dev Practice Repository
+<div align="center">Practice Repository for Web Development</div>
 
-Please use the complete address to view the Web-Pages.
+<div align="center">Please use the complete address to view the Web-Pages.</div>
