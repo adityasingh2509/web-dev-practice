@@ -1,0 +1,152 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  font-family: Arial, Verdana, sans-serif;
+  margin: 1vw;
+  font-size: 0.9em;
+  background-color:  #f8f8f8;
+  color: #666;
+}
+
+h1{
+  color: #595959;
+  margin-top: 2vh;
+  margin-bottom: 3vh;
+}
+
+h1 ~ p{
+  margin-bottom: 2vh;
+}
+
+ul{
+  list-style-image: url(../images/icon-plus.png);
+  margin-left: 5vw;
+  margin-bottom: 2vh;
+}
+
+li{
+  padding-bottom: 1vw;
+}
+
+table,td,th{
+  border-spacing: 0;
+}
+
+th,td{
+  padding: 5px 30px 5px 10px;
+  text-align: left;
+  background-color: #e0e9f0;
+  border-top: 1px solid #f1f8fe;
+  border-bottom: 1px solid #cbd2d8;
+  border-right: 1px solid #cbd2d8;
+}
+
+tr.head th {
+  color: #fff;
+  background-color: #90b4d6;
+  border-bottom: 2px solid #547ca0;
+  border-right: 1px solid #749abe;
+  border-top: 1px solid #90b4d6;
+  text-align: center;
+  text-shadow: -1px -1px 1px #666;
+  letter-spacing: 0.15em;
+}
+
+tr.head th:first-child{
+  border-top-left-radius: 5px;
+}
+
+tr.head th:last-child{
+  border-top-right-radius: 5px;
+}
+
+td {
+  text-shadow: 1px 1px 1px #fff;
+}
+
+tr.even *{
+  background-color: #e8eff5;
+}
+
+table{
+  margin-bottom: 4vh;
+}
+
+fieldset {
+  width: 390px;
+  height: 27vh;
+  margin-top: 20px;
+  border: 1px solid #d6d6d6;
+  background-color: #ffffff;
+  line-height: 1.6em;
+}
+
+legend {
+  margin-left: 2vw;
+  font-style: italic;
+  color: #666666;
+}
+
+fieldset p{
+  margin-top: 2vh;
+  margin-left: 2vw;
+  text-transform: capitalize;
+}
+
+input[type="text"] {
+  margin-left: 2vw;
+  width: 120px;
+  border: 1px solid #d6d6d6;
+  padding: 2px;
+}
+
+input[type="text"]:focus,input[type="text"]:hover {
+  background-color: #d0e2f0;
+  border: 1px solid #999999;
+}
+
+input[type="submit"] {
+  border: 1px solid #006633;
+  background-color: #009966;
+  color: #ffffff;
+  border-radius: 5px;
+  padding: 5px;
+  margin-top: 10px;
+}
+
+input[type="submit"]:hover {
+  border: 1px solid #006633;
+  background-color: #00CC33;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+select{
+  text-transform: capitalize;
+  width: 90px;
+  margin-left: 2vw;
+}
+
+input[type="radio"]{
+  margin-right: 1vw;
+}
+
+p:last-child label{
+  margin-left: 2vw;
+  margin-right: 0.5vw;
+}
+
+.title {
+  float: left;
+  width: 160px;
+  clear: left;
+}
+
+.submit {
+  width: 310px;
+  text-align: right;
+}
