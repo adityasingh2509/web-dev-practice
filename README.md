@@ -13,13 +13,6 @@
 - [Love MUSIC (Index Page Practice)](https://adityasingh2509.github.io/web-dev-practice/front-end/index-snippet.html)
 
 
-<ul>
-  <li><a href="https://adityasingh2509.github.io/web-dev-practice/front-end/sample-blog.html" target="_blank">Yoko's Kitchen (Sample Blog)</li>
-  <a href="http://example.com/" target="_blank">Hello, world!</a>
-</ul>
-
-
-
 
 
 
