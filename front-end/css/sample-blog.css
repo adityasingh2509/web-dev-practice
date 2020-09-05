@@ -153,6 +153,10 @@ aside a{
   text-decoration: none;
 }
 
+aside a:hover{
+  color:  #66ccff;
+}
+
 /***************END OF MAIN**************/
 
 footer{
