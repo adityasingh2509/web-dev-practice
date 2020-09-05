@@ -15,6 +15,7 @@
 
 <ul>
   <li><a href="https://adityasingh2509.github.io/web-dev-practice/front-end/sample-blog.html" target="_blank">Yoko's Kitchen (Sample Blog)</li>
+  <li><a href="http://example.com/" target="_blank">Hello, world!</a></li>
 </ul>
 
 
