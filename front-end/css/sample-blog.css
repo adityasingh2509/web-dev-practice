@@ -1,0 +1,163 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  color: #666666;
+  background-color: #f9f8f6;
+  background-image: url("../images/dark-wood.jpg");
+  background-position: center;
+  font-family: Georgia, times, serif;
+  line-height: 1.4em; 
+}
+
+#page{
+  width: 940px;
+  margin: 1% auto;
+  border: 2px solid #000;
+  background-color: #fff;
+  padding: 0.1%;
+}
+
+/***************START OF HEADER**************/
+
+header{
+  width: 100%;
+  background-image: url(../images/header.jpg);
+  background-repeat: no-repeat;
+}
+
+h1{
+  text-indent: -9999px;
+  width: 80vw;
+  height: 15vh;
+}
+
+nav, footer{
+  clear: both;
+  background-color: #aeaca8;
+  line-height: 3vh;
+  color: #fff;
+}
+
+nav li{
+  display: inline-block; 
+  text-transform: capitalize;
+  padding: 1%;
+  margin-right: 3vw;
+}
+
+nav li:first-child{
+  margin-left: 2vw;
+}
+
+nav li a{
+  color: #fff;
+  text-decoration: none;
+}
+
+nav li a:hover{
+  color: #000;
+}
+
+.active{
+  color: black
+}
+
+/***************END OF HEADER**************/
+
+/***************START OF MAIN**************/
+
+#courses{
+  width: 65%;
+  margin: 0 1% 0 2%;
+  float: left;
+  padding-bottom: 4%;
+  padding-right: 1%;
+  border-right: 1px solid #eee;
+}
+
+h1,h2,h3{
+  font-weight: normal;
+}
+
+h3, aside h2, aside a{
+  color: #de6581;
+}
+
+article{
+  clear: both;
+  overflow: auto;
+  width: 100%;
+}
+
+hgroup{
+  margin-top: 11%;
+}
+
+figure{
+  width: 50%;
+  margin-top: 6%;
+  margin-right: 4%;
+  float: left;
+  border: 1px solid #eee;
+}
+
+figure img{
+  display: block;
+  width: 95%;
+  margin: 0 auto;
+  padding: 3%; 
+}
+
+figcaption{
+  padding-left: 6%;
+  padding-bottom: 2%;
+  font-size: 0.9em;
+}
+
+
+/******************START OF SIDEBAR****************/
+
+aside{
+  width: 30%;
+  float: left;
+  margin-left: 1%;
+  margin-bottom: 5%;
+}
+
+aside h2{
+  margin-top: 20%;
+  margin-bottom: 7%;
+  text-align: left;
+}
+
+aside ul{
+  list-style-type: none;
+  margin-right: 2%;
+  margin-top: 8%;
+  margin-left: 1%;
+}
+
+aside li{
+  padding-bottom: 4%;
+  padding-top: 4%;
+  text-align: left;
+  border-bottom: 1px solid #eee;
+}
+
+aside a{
+  text-decoration: none;
+}
+
+/***************END OF MAIN**************/
+
+footer{
+  font-size: 0.9em;
+  text-align: center;
+  padding: 1%;
+}
+
+
