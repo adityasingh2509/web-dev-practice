@@ -13,8 +13,8 @@
 - [Love MUSIC (Index Page Practice)](https://adityasingh2509.github.io/web-dev-practice/front-end/index-snippet.html)
 
 
-<ul style="list-style-image: url(https://github.com/adityasingh2509/web-dev-practice/blob/master/front-end/images/icon-plus.png);margin-left: 5vw;>
-  <li><a href="https://adityasingh2509.github.io/web-dev-practice/front-end/sample-blog.html" target="_blank">Yoko's Kitchen (Sample Blog</li>
+<ul>
+  <li><a href="https://adityasingh2509.github.io/web-dev-practice/front-end/sample-blog.html" target="_blank">Yoko's Kitchen (Sample Blog)</li>
 </ul>
 
 
