@@ -1,6 +1,6 @@
 <div align="center">Practice Repository for Web Development</div>
 
-<div align="center">Please use the following Links (latest first) to view the Web-Pages if complete URL is unknown to you.</div>
+<div align="center">Please use the below Links (latest first) to view the Web-Pages if complete URL is unknown to you.</div>
 
 - [Yoko's Kitchen (Sample Blog)](https://adityasingh2509.github.io/web-dev-practice/front-end/sample-blog.html)
 
@@ -14,7 +14,7 @@
 
 
 
-<a href="http://example.com/" target="_blank">example</a>
+
 
 
 
