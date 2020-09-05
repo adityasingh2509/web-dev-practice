@@ -2,7 +2,7 @@
 
 <div align="center">Please use the complete address to view the Web-Pages.</div>
 
-- Yoko's Kitchen Sample Blog [1]
+- [Yoko's Kitchen Sample Blog] [1]
 
 
 
